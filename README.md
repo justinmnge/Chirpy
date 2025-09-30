@@ -25,12 +25,12 @@ Goals of this project:
 
 ### Prerequisites
 
-* Install
+* Install using your terminal to the latest version 
   ```sh
   curl -sS https://webi.sh/golang | sh
   ```
 
-* Verify
+* Verify installation worked
   ```sh
   go version
   ```
