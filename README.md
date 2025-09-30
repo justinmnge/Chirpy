@@ -25,14 +25,9 @@ Goals of this project:
 
 ### Prerequisites
 
-* Update package lists
-  ```sh
-  sudo apt update
-  ```
-
 * Install
   ```sh
-  sudo apt install golang-go
+  curl -sS https://webi.sh/golang
   ```
 
 * Verify
