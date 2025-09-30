@@ -14,13 +14,15 @@ Goals of this project:
 * Implement a secure authentication/authorization system with well-tested cryptography libraries
 * Build and understand webhooks and API keys
 * Document the REST API with markdown
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-* [![Go][Go.dev]][Go-url]
-
+</h3>
+<p align="center">
+ <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go"></a>&nbsp;
+<img src="https://skillicons.dev/icons?i=html">&nbsp;
+ </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
@@ -55,7 +57,6 @@ Goals of this project:
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
    ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
@@ -69,7 +70,6 @@ Goals of this project:
 ## License
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
@@ -78,5 +78,4 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 Justin Monge - hello@justin-monge.dev
 
 Project Link: [https://github.com/justinmnge/Chirpy](https://github.com/justinmnge/Chirpy)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
