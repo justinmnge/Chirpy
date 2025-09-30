@@ -27,7 +27,7 @@ Goals of this project:
 
 * Install
   ```sh
-  curl -sS https://webi.sh/golang
+  curl -sS https://webi.sh/golang | sh
   ```
 
 * Verify
