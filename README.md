@@ -1,7 +1,7 @@
-# go-Chirpy
+# Chirpy
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About this Project
 
 The goal of this project was to learn how the back-end track on Boot.dev comes together as building HTTP servers is the bread-and-butter of a backend developer's day-to-day work.
 
@@ -14,16 +14,14 @@ Goals of this project:
 * Implement a secure authentication/authorization system with well-tested cryptography libraries
 * Build and understand webhooks and API keys
 * Document the REST API with markdown
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
 </h3>
-<p align="center">
+<p align="left">
  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go"></a>&nbsp;
 <img src="https://skillicons.dev/icons?i=html">&nbsp;
  </p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
 
@@ -57,7 +55,6 @@ Goals of this project:
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
    ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
 
@@ -70,7 +67,6 @@ Goals of this project:
 ## License
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
