@@ -1,7 +1,7 @@
 # Chirpy
 
 <!-- ABOUT THE PROJECT -->
-## About this Project
+## 📌 About this Project
 
 The goal of this project was to learn how the back-end track on Boot.dev comes together as building HTTP servers is the bread-and-butter of a backend developer's day-to-day work.
 
@@ -15,7 +15,7 @@ Goals of this project:
 * Build and understand webhooks and API keys
 * Document the REST API with markdown
 
-### Built With
+### 🛠️ Built With
 
 </h3>
 <p align="left">
@@ -23,7 +23,7 @@ Goals of this project:
 <img src="https://skillicons.dev/icons?i=html">&nbsp;
  </p>
 
-### Prerequisites
+### ✅ Prerequisites
 
 * Install using your terminal to the latest version 
   ```sh
@@ -35,15 +35,15 @@ Goals of this project:
   go version
   ```
 
-## ⚙️ Installation
+## 📦 Installation
 
 1. Clone the repo
    ```sh
    git clone https://github.com/justinmnge/Chirpy.git
    ```
-2. Install Go packages
+2. Download all dependencies
    ```sh
-   Go install
+   go mod download
    ```
 3. Change git remote url to avoid accidental pushes to base project
    ```sh
@@ -51,20 +51,20 @@ Goals of this project:
    git remote -v # confirm the changes
    ```
 
-## Usage
+## ⚙️ Usage
 
-* How to run
+* Run the server
   ```sh
   go run .
   ```
 
 <!-- LICENSE -->
-## License
+## 🔐 License
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
-## Contact
+## ℹ️ Contact
 
 Justin Monge - hello@justin-monge.dev
 
