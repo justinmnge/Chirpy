@@ -15,7 +15,7 @@ Goals of this project:
 * Build and understand webhooks and API keys
 * Document the REST API with markdown
 
-### 🛠️ Built With
+## 🛠️ Built With
 
 </h3>
 <p align="left">
@@ -23,7 +23,7 @@ Goals of this project:
 <img src="https://skillicons.dev/icons?i=html">&nbsp;
  </p>
 
-### ✅ Prerequisites
+## ✅ Prerequisites
 
 * Install using your terminal to the latest version 
   ```sh
